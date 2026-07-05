@@ -11,6 +11,7 @@ My goal is to turn raw business data into clear analytical outputs that help peo
 ### 1. Microsoft Fabric Sales Analytics Platform
 
 -[View live project](https://sebastiananalytics.github.io/microsoft-fabric-sales-analytics-platform/)
+
 -[View repository](https://github.com/SebastianAnalytics/microsoft-fabric-sales-analytics-platform)
 
 An end-to-end BI project built around Microsoft Fabric.
@@ -32,6 +33,7 @@ The project covers data ingestion, Lakehouse bronze/silver layers, notebook-base
 ### 2. Power BI Case Study – Personalized baby product offer
 
 -[View live project](https://sebastiananalytics.github.io/powerbi-imiona-personalizacja/)
+
 -[View repository](https://github.com/SebastianAnalytics/powerbi-imiona-personalizacja)
 
 A business case study based on public Polish baby name data.
